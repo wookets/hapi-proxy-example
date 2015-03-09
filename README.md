@@ -11,5 +11,9 @@ npm install
 
 ## Usage
 
+```
+node index.js
+```
+
 Go to localhost:3000 in your favorite browser and enjoy.
 
