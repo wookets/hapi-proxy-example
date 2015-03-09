@@ -5,7 +5,9 @@ This project merely demonstrates some of the things you can do with proxies in h
 
 ## Install
 
-`npm install
+```
+npm install
+```
 
 ## Usage
 
